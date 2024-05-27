@@ -1,6 +1,6 @@
 # Forum Application
 
-This directory contains the code for a web-based forum application built using Go and React. The application allows users to create and participate in discussions on various topics.
+This directory contains the code for a web-based forum application built using Go and HTML, CSS, JavaScript. The application allows users to create and participate in discussions on various topics.
 
 ## Overview
 
